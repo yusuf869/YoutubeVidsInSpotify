@@ -37,3 +37,5 @@ I'm kinda new to this so this was a lot of chatGPT/ messy code so if anyone spot
 
 > NOTE: chatGPT can create the ```timestamps.txt``` file for you if you ask it to match the specified format and give it the timestamps from the YouTube vid.
 
+> NOTE: Idk how to turn into an exe file so I've just put the whole code up (I'm saying it like someone will actually use this lol) 
+
